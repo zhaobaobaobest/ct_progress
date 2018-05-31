@@ -8,4 +8,5 @@
 最终效果：
 
 ![效果图](https://github.com/zhaobaobaobest/ct_progress/blob/master/effect.gif)
-
+ 
+虽然简单，喜欢的star一下哦
