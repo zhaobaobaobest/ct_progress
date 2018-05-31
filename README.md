@@ -7,3 +7,5 @@
  
 最终效果：
 
+![效果图](https://github.com/zhaobaobaobest/ct_progress/blob/master/effect.gif)
+
